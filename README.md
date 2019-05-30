@@ -1,0 +1,2 @@
+# store
+A fastadmin addon
